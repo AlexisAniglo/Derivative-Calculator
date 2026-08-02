@@ -16,11 +16,7 @@ I created this project to practice taking mathematical concepts and translating 
 ## How to Use
 Represent your polynomial as a list of numbers representing each coefficient and exponent. 
 
-Example: 5x^7 - 9x^6 + 10x^8 
-
-becomes
-
-[5, 7, -9, 6, 10, 8]
+Example: 5x^7 - 9x^6 + 10x^8 -> [5, 7, -9, 6, 10, 8]
 
 Constants are represented with an exponent of zero.
 
