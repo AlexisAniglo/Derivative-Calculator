@@ -2,23 +2,24 @@
 This Python project computes the derivative of any polynomial to the user's liking using the power rule: d[ax^n] = (n)ax^n-1.
 
 I created this project to practice taking mathematical concepts and translating them into computer programs. This projects implements concepts such as:
-Functions
 
-Variable-Length Arguments (*args)
+  Functions
 
-Index-Based Iteration and Looping
+  Variable-Length Arguments (*args)
 
-Conditional Statements
+  Index-Based Iteration and Looping
 
-String Manipulation
+  Conditional Statements
 
-Mathematical Computation
+  String Manipulation
 
-Data Representation
+  Mathematical Computation
 
-Algorithm Design
+  Data Representation
 
-Problem Decomposition
+  Algorithm Design
+
+  Problem Decomposition
 
 
 
