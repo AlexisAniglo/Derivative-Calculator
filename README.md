@@ -19,7 +19,7 @@ I created this project to practice translating mathematical concepts into comput
 
 ## Future Improvements
 
-- Implement a smoother data representation for polynomial input.
+- Implement smoother data representation for polynomial input.
 
 ## How to Use
 
