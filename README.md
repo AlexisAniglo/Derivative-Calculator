@@ -21,5 +21,7 @@ I created this project to practice taking mathematical concepts and translating 
 
   Problem Decomposition
 
+Future Improvements include: Smoother Data Representation
+
 
 
