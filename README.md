@@ -13,6 +13,11 @@ I created this project to practice taking mathematical concepts and translating 
 - Problem Decomposition
 ## Future Improvements
 - Implement smoother data representation for polynomial input.
+## How to Use
+Represent your polynomial as a list of numbers representing each coefficient and exponent. 
+
+Example:
+
 
 
 
