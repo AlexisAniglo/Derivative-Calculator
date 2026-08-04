@@ -50,6 +50,9 @@ becomes
 ```
 [8, 0]
 ```
+## Example Output
 
+![Example Output](images/<img width="315" height="27" alt="Screenshot 2026-08-04 175154" src="https://github.com/user-attachments/assets/e04fd3e8-0daa-4f8a-940e-9075427c056a" />
+)
 ## Sign-off
 This is my first independent Python project and serves as a foundation for more advanced projects combining mathematics and computer science in the future.
