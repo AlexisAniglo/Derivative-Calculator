@@ -1,4 +1,4 @@
-# Derivative-Calculator
+# Derivative-Calculator (Python)
 This Python project computes the derivative of user-defined polynomials using the Power Rule:
 
 **d[ax^n] = (n)ax^(n-1)**
